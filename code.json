@@ -1,8 +1,8 @@
 [
   {
-    "name": "Longfin Smelt Length at Date",
+    "name": "Longfin Smelt Population Dynamics Model",
     "organization": "U.S. Fish & Wildlife Service",
-    "description": "Data and code to support the development of length at date criteria used to separate year classes of the Bay-Delta DPS of Longfin Smelt; Appendix C of the SSA for the Bay-Delta DPS of Longfin Smelt",
+    "description": "Data and code to support the development of a population dynamics model for the Bay-Delta DPS of Longfin Smelt; Appendix E of the SSA for the Bay-Delta DPS of Longfin Smelt",
     "version": "1.0",
     "status": "release candidate",
 
@@ -11,15 +11,15 @@
       "licenses": [
         {
           "name": "GPL 3.0",
-          "URL": "https://github.com/USFWS/Longfin-Smelt-Length-at-Date/blob/main/LICENSE.md"
+          "URL": "https://github.com/USFWS/Longfin-Smelt-Population-Dynamics/blob/main/LICENSE.md"
         }
       ]
     },
 
-    "homepageURL": "https://github.com/USFWS/Longfin-Smelt-Length-at-Date ",
-    "downloadURL": "Longfin-Smelt-Length-at-Datearchive/refs/heads/main.zip",
-    "disclaimerURL": "https://github.com/USFWS/Longfin-Smelt-Length-at-Date/blob/main/DISCLAIMER.md",
-    "repositoryURL": "https://github.com/USFWS/Longfin-Smelt-Length-at-Date.git",
+    "homepageURL": "https://github.com/USFWS/Longfin-Smelt-Population-Dynamics",
+    "downloadURL": "Longfin-Smelt-Population-Dynamics/archive/refs/heads/main.zip",
+    "disclaimerURL": "https://github.com/USFWS/Longfin-SmeltPopulation-Dynamics/blob/main/DISCLAIMER.md",
+    "repositoryURL": "https://github.com/USFWS/Longfin-Smelt-Population-Dynamics.git",
     "vcs": "git",
 
     "laborHours": 2,
@@ -42,7 +42,7 @@
     },
 
     "date": {
-      "metadataLastUpdated": "2024-01-30"
+      "metadataLastUpdated": "2024-03-14"
     }
   }
 ]
