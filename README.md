@@ -8,7 +8,9 @@ There are two main R scripts in this repository. The first (Data_Exploration_Fig
 
 Data for this study were derived from the Interagency Ecological Program's [long-term monitoring data](https://iep.ca.gov/Data/IEP-Survey-Data). Specifically, this model uses data and abundance indices from the San Francisco Bay Study program.
 
-![alt text placeholder](Figures/Fig1_conceptual_model.png)
+![A conceptual model of population dynamics for Longfin Smelt. The diagram consists of three circles with arrows between them. The circles are labeled "Age-0", "Age-1", and "Age-2." An arrow pointing from "Age-2" to "Age-0" is labeled "R". An arrow pointing from "Age-0" to "Age-1" is labeled "S0". An arrow pointing from "Age-1" to "Age-2" is labeled "S1".](Figures/Fig1_conceptual_model.png)
+
+Figure 1: Age-based conceptual model for Longfin Smelt population dynamics.
 
 
 ## Installation
