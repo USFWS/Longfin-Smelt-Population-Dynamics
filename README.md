@@ -8,6 +8,8 @@ There are two main R scripts in this repository. The first (Data_Exploration_Fig
 
 Data for this study were derived from the Interagency Ecological Program's [long-term monitoring data](https://iep.ca.gov/Data/IEP-Survey-Data). Specifically, this model uses data and abundance indices from the San Francisco Bay Study program.
 
+![alt text placeholder](Figures/Fig1_conceptual_model.png)
+
 
 ## Installation
 
